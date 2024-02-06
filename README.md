@@ -20,3 +20,16 @@
  7. resource
  8. null
  9. undefined
+
+## Operatos
+
+
+## Control Statements
+* if
+* else
+* else if
+* nested if else 
+
+## HTML & PHP
+
+## Array
